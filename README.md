@@ -1,6 +1,5 @@
-#Memory Game
-
-The Memory Game project is a web-based game developed using HTML, CSS, and JavaScript, with a primary focus on honing algorithmic problem-solving skills in JavaScript. This classic memory game challenges players to match pairs of cards within a grid of face-down tiles. Through careful observation and strategic thinking, players must remember the positions of previously revealed cards to successfully uncover matching pairs.
+# Memory Game
+The "Memory Game" project is a web-based game developed using HTML, CSS, and JavaScript, with a primary focus on honing algorithmic problem-solving skills in JavaScript. This classic memory game challenges players to match pairs of cards within a grid of face-down tiles. Through careful observation and strategic thinking, players must remember the positions of previously revealed cards to successfully uncover matching pairs.
 
 Implementing the Memory Game involves tackling various algorithmic challenges in JavaScript, such as managing game state, handling user interactions, and implementing card matching logic. JavaScript's powerful array manipulation methods and conditional statements are leveraged to create efficient algorithms for shuffling cards, tracking matches, and determining game completion.
 
